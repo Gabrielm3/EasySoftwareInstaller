@@ -2,7 +2,7 @@
 
 EasySoftwareInstaller is a shell script designed to simplify the process of downloading and installing multiple software packages with a single command. This project provides scripts for both Windows and Linux environments, making it easy to set up your development environment or workstation with essential tools.
 
-![Alt text](image.jpeg)
+<img src="image.jpeg" alt="image" width="300">
 
 ## Features
 
